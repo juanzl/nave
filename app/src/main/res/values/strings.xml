@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BottomNavigationJava</string>
+    <string name="title_home">Vista principal</string>
+    <string name="title_credit_card">Tarjeta de crédito</string>
+    <string name="title_notifications">Notificaciones </string>
+    <string name="all">TODO</string>
+    <string name="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio quas illo eaque maiores reprehenderit, molestiae aliquid reiciendis natus.</string>
+    <string name="subtitle">Lorem ipsum dolor sit consectur.</string>
+
+
+
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="prompt_user">User</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="email">Correo electronico</string>
+
+
+</resources>

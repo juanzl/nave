@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_view"
+    app:startDestination="@+id/navigation_iniciar_sesion">
+
+    <fragment
+        android:id="@+id/navigation_iniciar_sesion"
+        android:name="fragments.IniciarFragment"
+        tools:layout="@layout/fragment_iniciar_sesion" />
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="fragments.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_credit_card"
+        android:name="fragments.CreditCardFragment"
+        tools:layout="@layout/fragment_credit_card" />
+
+    <fragment
+        android:id="@+id/navigation_notification"
+        android:name="fragments.NotificationFragment"
+        tools:layout="@layout/fragment_notification" />
+
+
+
+</navigation>
