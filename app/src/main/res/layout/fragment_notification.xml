@@ -32,15 +32,6 @@
                 android:textSize="24sp"
                 tools:ignore="TextContrastCheck" />
 
-            <TextView
-                android:id="@+id/textView3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="8dp"
-                android:text="@string/subtitle"
-                android:textColor="@color/black_700"
-                android:textSize="18sp"
-                tools:ignore="TextContrastCheck" />
         </LinearLayout>
 
         <ImageView
@@ -65,22 +56,6 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout"
         tools:ignore="UseCompoundDrawables">
 
-        <ImageView
-            android:id="@+id/imageView2"
-            android:layout_width="120dp"
-            android:layout_height="120dp"
-            android:layout_gravity="center"
-            android:contentDescription="@string/all"
-            app:srcCompat="@drawable/ic_notification"
-            tools:ignore="ImageContrastCheck" />
-
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:gravity="center"
-            android:text="@string/description" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
