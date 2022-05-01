@@ -11,19 +11,19 @@
         tools:layout="@layout/fragment_iniciar_sesion" />
 
     <fragment
-        android:id="@+id/navigation_home"
-        android:name="fragments.HomeFragment"
-        tools:layout="@layout/fragment_home" />
-
-    <fragment
         android:id="@+id/navigation_credit_card"
         android:name="fragments.CreditCardFragment"
         tools:layout="@layout/fragment_credit_card" />
 
     <fragment
         android:id="@+id/navigation_notification"
-        android:name="fragments.ActividadesFragment"
+        android:name="fragments.NotificationFragment"
         tools:layout="@layout/fragment_notification" />
+
+    <fragment
+        android:id="@+id/navigation_actividades"
+        android:name="fragments.ActividadesFragment"
+        tools:layout="@layout/fragment_actividades" />
 
     <fragment
         android:id="@+id/navigation_perfil"

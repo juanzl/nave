@@ -8,17 +8,17 @@
         tools:ignore="MenuTitle" />
 
     <item
-        android:id="@+id/navigation_home"
+        android:id="@+id/navigation_credit_card"
         android:icon="@drawable/buscar"
         tools:ignore="MenuTitle" />
 
     <item
-        android:id="@+id/navigation_credit_card"
+        android:id="@+id/navigation_notification"
         android:icon="@drawable/biblioteca"
         tools:ignore="MenuTitle" />
 
     <item
-        android:id="@+id/navigation_notification"
+        android:id="@+id/navigation_actividades"
         android:icon="@drawable/actividades"
         tools:ignore="MenuTitle" />
 
