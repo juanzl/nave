@@ -9,19 +9,22 @@
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home"
+        android:icon="@drawable/buscar"
         tools:ignore="MenuTitle" />
 
     <item
         android:id="@+id/navigation_credit_card"
-        android:icon="@drawable/ic_credit_card"
+        android:icon="@drawable/biblioteca"
         tools:ignore="MenuTitle" />
 
     <item
         android:id="@+id/navigation_notification"
-        android:icon="@drawable/ic_notification"
+        android:icon="@drawable/actividades"
         tools:ignore="MenuTitle" />
 
-
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/perfil"
+        tools:ignore="MenuTitle" />
 
 </menu>

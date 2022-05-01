@@ -22,9 +22,12 @@
 
     <fragment
         android:id="@+id/navigation_notification"
-        android:name="fragments.NotificationFragment"
+        android:name="fragments.ActividadesFragment"
         tools:layout="@layout/fragment_notification" />
 
-
+    <fragment
+        android:id="@+id/navigation_perfil"
+        android:name="fragments.PerfilFragment"
+        tools:layout="@layout/fragment_perfil" />
 
 </navigation>

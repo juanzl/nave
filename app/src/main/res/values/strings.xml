@@ -1,8 +1,17 @@
 <resources>
     <string name="app_name">BottomNavigationJava</string>
-    <string name="title_home">Vista principal</string>
-    <string name="title_credit_card">Tarjeta de crédito</string>
-    <string name="title_notifications">Notificaciones </string>
+    <string name="title_home">Inicio</string>
+    <string name="title_credit_card">Buscar</string>
+    <string name="title_notifications">Biblioteca</string>
+    <string name="title_actividades">Actividades</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="pronunciacion">Pronunciacion</string>
+    <string name="deletreo">Deletreo</string>
+    <string name="principito">Principito</string>
+    <string name="dumbo">Dumbo</string>
+    <string name="title_fantasia">Fantasia</string>
+    <string name="historias">Historias</string>
+
     <string name="all">TODO</string>
     <string name="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio quas illo eaque maiores reprehenderit, molestiae aliquid reiciendis natus.</string>
     <string name="subtitle">Lorem ipsum dolor sit consectur.</string>
